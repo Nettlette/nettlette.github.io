@@ -1,4 +1,4 @@
-<link rel="stylesheet" href="../assets/css/main.css">
+<link rel="stylesheet" href="assets/css/main.css">
 
 # Project 2
 [Back](../README.md)
