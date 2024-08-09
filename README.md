@@ -4,29 +4,34 @@
 
 <div class="group" markdown="1">
 
-
 ## About Me
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+These are some of the projects I have worked on, both personally and professionally, as a software developer. The topics range from customer relation management (CRM) to tracking reading habits to non-profit donation management.
+
+Enjoy!
 
 </div>
 
 <div class="group" markdown="1">
 
-## Projects
+## Contact Me
 
-### [Project 1](Project-1/README.md)
+I'm always interested in new opportunities and a chance to grow.
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+Contact me on [LinkedIn](https://www.linkedin.com/in/crystal-turner-115149150/), [GitHub](https://github.com/Nettlette) or by [email](tomail:dances_with_god@yahoo.com)
 
 </div>
 
-### [Project 2](Project-2/README.md)
+<div class="group" markdown="1">
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+## Portfolio
 
-## Contact Me
+### Case Management System for Omni Financial Healthcare, LLC (now The Trio Solution)
 
-FB
-Github
-Email
+Omni Financial Healthcare provides pre-settlement cash advances and procedure payments for plaintiffs and medical facilities. The company moved its case management to a more robust, custom built system. The system coordinates paying for medical procedures needed for clients, attorneys giving updates on existing cases and finalizing the settlement for cases won, insurance demands, and helping medical facilities keep track of personal injury cases.
+
+### First Fruits Finance Donation Management (non-profit)
+
+First Fruits Finance helps non-profits track donations, produce giving statements for tax purposes, and manage capital campaigns.
+
+</div>
