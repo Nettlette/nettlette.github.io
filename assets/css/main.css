@@ -8,6 +8,9 @@
 
 .group {
 	background-color: #815fcf;
+	color: white;
+	padding: .5px 15px;
+	margin-bottom: 25px;
 }
 
 html, body, div, span, applet, object,
